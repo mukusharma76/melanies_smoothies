@@ -6,5 +6,5 @@
   #- snowflake-snowpark-python=
  # - streamlit=
 # requirments.txt
-snowlake-snowpark-python
+snowflake-snowpark-python
 streamlit
